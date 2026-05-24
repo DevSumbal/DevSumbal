@@ -1,4 +1,5 @@
-# Hi there, I'm Sumbal Shahzadi! 👋
+# Sumbal Shahzadi Portfolio
+Hi there, I'm Sumbal Shahzadi! 👋
 ### MERN Stack Developer | MSCS Candidate
 
 An enthusiastic and motivated MERN Stack Developer with hands-on experience building full-stack web applications. I specialize in crafting responsive user interfaces, designing scalable backend architectures, developing robust RESTful APIs, and optimizing database management workflows. With a strong academic background in Computer Science, I bridge theory and practical engineering to build scalable, clean, and maintainable web applications.
